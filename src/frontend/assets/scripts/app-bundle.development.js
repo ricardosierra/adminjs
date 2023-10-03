@@ -3666,7 +3666,7 @@ var AdminJS = (function (React, reactRedux, reactRouterDom, styled, reactI18next
 	  data
 	});
 
-	const TIME_TO_DISAPPEAR = 3;
+	const TIME_TO_DISAPPEAR = 10;
 	class NoticeElement extends React__default['default'].Component {
 	  constructor(props) {
 	    super(props);
